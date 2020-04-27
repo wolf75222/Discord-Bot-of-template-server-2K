@@ -1,0 +1,39 @@
+{
+  "name": "botdiscordwolf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.1.0",
+    "canvas": "^2.6.1",
+    "canvas-constructor": "^3.2.0",
+    "cheerio": "^1.0.0-rc.3",
+    "cleverbot-node": "^0.3.11",
+    "cpu-stat": "^2.0.1",
+    "discord-canvas": "^1.1.0",
+    "discord.js": "^12.1.1",
+    "discord.js-poll-embed": "^1.0.2",
+    "ffmpeg-static": "^4.1.1",
+    "fs": "0.0.1-security",
+    "google-translate-api": "^2.3.0",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.2",
+    "node-fetch": "^2.6.0",
+    "node-superfetch": "^0.1.10",
+    "novelcovid": "^1.2.7",
+    "os": "^0.1.1",
+    "random-puppy": "^1.1.0",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.8",
+    "snekfetch": "^3.6.4",
+    "superagent": "^5.2.2",
+    "youtube-search": "^1.1.4",
+    "ytdl-core": "^2.1.0"
+  }
+}
