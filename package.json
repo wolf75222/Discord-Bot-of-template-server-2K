@@ -44,7 +44,7 @@
     "node-fetch": "^2.6.0",
     "node-superfetch": "^0.1.10",
     "novelcovid": "^1.2.7",
-    "npm": "^6.14.5",
+    "npm": "^6.14.6",
     "os": "^0.1.1",
     "parse-ms": "^2.1.0",
     "prebuild-install": "^5.3.3",
