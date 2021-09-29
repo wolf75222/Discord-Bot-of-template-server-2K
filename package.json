@@ -32,7 +32,7 @@
     "fs": "0.0.1-security",
     "google-translate-api": "^2.3.0",
     "got": "^11.1.0",
-    "i": "^0.3.6",
+    "i": "^0.3.7",
     "imageapi.js": "^1.0.3",
     "jsonfile": "^6.0.1",
     "moment": "^2.25.3",
