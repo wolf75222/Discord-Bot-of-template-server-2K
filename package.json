@@ -31,7 +31,7 @@
     "ffmpeg-static": "^4.2.0",
     "fs": "0.0.1-security",
     "google-translate-api": "^2.3.0",
-    "got": "^11.1.0",
+    "got": "^11.8.5",
     "i": "^0.3.6",
     "imageapi.js": "^1.0.3",
     "jsonfile": "^6.0.1",
