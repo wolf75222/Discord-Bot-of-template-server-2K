@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@discordjs/opus": "^0.1.0",
+    "@discordjs/opus": "^0.8.0",
     "apiai": "^4.0.3",
     "ascii-table": "0.0.9",
     "canvas": "^2.6.1",
